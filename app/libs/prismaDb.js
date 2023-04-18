@@ -1,5 +1,5 @@
-import {PrismaClient, prismaClient}  from "@prisma/client"
+// import {PrismaClient, prismaClient}  from "@prisma/client"
 
-declare global {
-    var prisma :PrismaClient 
-}
+// declare global {
+//     var prisma :PrismaClient 
+// }
